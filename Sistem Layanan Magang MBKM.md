@@ -1,16 +1,22 @@
+Nama Anggota Kelompok:
+- Faris Alfarizi Syaputra       (1251420022)
+- Aksal Fahri Ibrahim	        (1251420028)
+- Muhammad Faisal Ali Hafidz    (1251420086)
+- Shafwan Anwar	                (1251420096)
+
 # Sistem Layanan Magang/MBKM
 
 ## 1. Layanan yang Dipilih
 
-Layanan yang dipilih adalah **Sistem Layanan Magang/MBKM**. Sistem ini
+Layanan yang dipilih adalah Sistem Layanan Magang/MBKM. Sistem ini
 dirancang untuk membantu proses magang mahasiswa mulai dari pencarian
 program, pengajuan, verifikasi, pelaksanaan, penilaian, hingga proses
 konversi atau rekognisi SKS.
 
 ## 2. Fitur Unggulan
 
-Fitur unggulan yang diusulkan adalah **Integrated Internship
-Management**, yaitu fitur pengelolaan magang yang menghubungkan seluruh
+Fitur unggulan yang diusulkan adalah Integrated Internship
+Management, yaitu fitur pengelolaan magang yang menghubungkan seluruh
 pihak yang terlibat dalam proses magang melalui satu platform.
 
 Pihak yang terlibat meliputi mahasiswa, Dosen Pembimbing Akademik (DPA),
@@ -24,29 +30,29 @@ dalam satu sistem sehingga proses magang menjadi lebih terkoordinasi.
 
 ## 3. Analisis Kebutuhan
 
-1.  **Sebagai mahasiswa, saya membutuhkan informasi program magang yang
+1.  Sebagai mahasiswa, saya membutuhkan informasi program magang yang
     tersedia beserta instansi, periode, dan persyaratannya, agar saya
-    dapat memilih program yang sesuai.**
+    dapat memilih program yang sesuai.
 
-2.  **Sebagai mahasiswa, saya membutuhkan fasilitas pengajuan magang dan
+2.  Sebagai mahasiswa, saya membutuhkan fasilitas pengajuan magang dan
     unggah dokumen secara online, agar saya tidak perlu mengirimkan
-    dokumen melalui media yang terpisah.**
+    dokumen melalui media yang terpisah.
 
-3.  **Sebagai mahasiswa, saya membutuhkan informasi status pengajuan
+3.  Sebagai mahasiswa, saya membutuhkan informasi status pengajuan
     magang, agar saya dapat mengetahui perkembangan pengajuan tanpa
-    harus menanyakan status secara terpisah.**
+    harus menanyakan status secara terpisah.
 
-4.  **Sebagai Dosen Pembimbing Akademik (DPA), saya membutuhkan akses
+4.  Sebagai Dosen Pembimbing Akademik (DPA), saya membutuhkan akses
     untuk melihat dan melakukan screening terhadap pengajuan mahasiswa,
-    agar proses pemeriksaan dapat dilakukan dengan lebih terstruktur.**
+    agar proses pemeriksaan dapat dilakukan dengan lebih terstruktur.
 
-5.  **Sebagai Admin/Staff Prodi, saya membutuhkan data pengajuan dan
+5.  Sebagai Admin/Staff Prodi, saya membutuhkan data pengajuan dan
     dokumen mahasiswa yang terorganisir, agar proses verifikasi
-    administrasi dapat dilakukan dengan lebih mudah dan terkontrol.**
+    administrasi dapat dilakukan dengan lebih mudah dan terkontrol.
 
-6.  **Sebagai mahasiswa, saya membutuhkan informasi hasil screening atau
+6.  Sebagai mahasiswa, saya membutuhkan informasi hasil screening atau
     permintaan perbaikan dokumen, agar saya dapat mengetahui tindakan
-    yang perlu dilakukan terhadap pengajuan saya.**
+    yang perlu dilakukan terhadap pengajuan saya.
 
 ## 4. Arsitektur Sistem
 
@@ -64,7 +70,7 @@ Gambar arsitektur sistem akan dibuat dan dilampirkan secara terpisah.
 
 ## 5. Alur Fitur Unggulan
 
-Fitur **Integrated Internship Management** menghubungkan proses magang
+Fitur Integrated Internship Management menghubungkan proses magang
 dari awal sampai selesai. Alur dimulai ketika mahasiswa memilih program
 dan mengajukan permohonan beserta dokumen. Pengajuan kemudian diperiksa
 oleh DPA dan pihak kampus.
@@ -119,7 +125,7 @@ Sistem Layanan Magang/MBKM dirancang sebagai platform terintegrasi yang
 menghubungkan mahasiswa, pihak kampus, dosen pembimbing, dan perusahaan
 dalam satu proses layanan.
 
-Fitur **Integrated Internship Management** menjadi fitur unggulan karena
+Fitur Integrated Internship Management menjadi fitur unggulan karena
 seluruh proses magang, mulai dari pengajuan hingga konversi SKS, dapat
 dikelola dan dipantau dalam satu sistem dengan hak akses yang
 disesuaikan untuk setiap pengguna.
